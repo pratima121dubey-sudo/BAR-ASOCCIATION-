@@ -1,0 +1,6 @@
+{
+  "name": "Bar Association Ballia",
+  "description": "Criminal & Revenue Bar Association Ballia official app with advocate registration, client diary, finance, legal generator, and AI legal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
